@@ -1,5 +1,5 @@
 # Filter-identification-from-non-stationary-diffused-graph-signals-over-an-undirected-network
-The functions filter_est_pgd.m and filter_est_sdr.m implement the algorithms 1 and 2, respectively, in the following paper:
+The functions filter_est_pgd.m and filter_est_sdr.m implement Algorithms 1 and 2, respectively, in the following paper:
 @article{RSSSAMGM_TSP18,
 	title={Identifying the Topology of Undirected Networks from Diffused Non-stationary Graph Signals},
 	author={R. Shafipour and S. Segarra and A. G. Marques and G. Mateos},
